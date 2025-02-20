@@ -47,8 +47,11 @@ pip install opencv-python numpy
 - **Bounding Box Creation:** `cv2.boundingRect()`
 - **Vehicle Tracking & Counting:** Tracks object center positions and increments the counter when a vehicle crosses the detection line.
 
-## 📺 Demo
-(Add an image or GIF showing the system in action)
+## 📺 Screenshots
+![Screenshot (11)](https://github.com/user-attachments/assets/24201aae-dfbe-4bcc-b9f3-40a66e19052b)
+![Screenshot (12)](https://github.com/user-attachments/assets/36f0014a-0baf-4bf7-bc6e-14e9ba1f78e5)
+![Screenshot (13)](https://github.com/user-attachments/assets/66fd5b02-dfd3-4d60-a038-e37406bdf76f)
+
 
 ## 🔥 Future Improvements
 - Implement **YOLO** or **Deep Learning** for better accuracy
@@ -60,6 +63,17 @@ Feel free to fork, improve, and submit a **pull request**. Suggestions and impro
 
 ## 📜 License
 This project is licensed under the MIT License.
+🤝 Contributing
+Feel free to fork this repository and submit a pull request if you have any improvements!
+
+## Contact
+For any questions or feedback, feel free to contact:
+
+Ankit kumar
+
+Email: your-ankitrajj1068@gmail.com
+
+GitHub: ankit1068
 
 
 
